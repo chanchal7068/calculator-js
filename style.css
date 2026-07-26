@@ -1,0 +1,394 @@
+.in {
+width: 300px;
+height: 50px;
+margin-left: 10px;
+margin-top: 20px;
+border: 1px solid black;
+border-radius: 5px 5px 5px 5px;
+font-family: sans-serif;
+font-weight: 700;
+font-size: larger;
+background-color: greenyellow;
+opacity: 0.8;
+padding-left: 3px;
+}
+
+div {
+    width: 400px;
+    height: 360px;
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 35%;
+    border-radius: 5px 5px 5px 5px;
+    background-color: aliceblue;
+    box-shadow: 0px 5px 15px 2px;
+}
+
+.c {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 20px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: red;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid red;
+    opacity: 0.7;
+}
+
+.c:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: gold;
+}
+
+.one {
+    width: 60px;
+    margin-top: 25px;
+    height: 40px;
+    margin-left: -30px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    border: 0.5px solid black;
+    opacity: 0.7;
+    color: white;
+    transition: 0.25sec;
+}
+
+.one:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.two {
+    width: 60px;
+    margin-top: 25px;
+    margin-left: -69px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.two:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.three {
+    width: 60px;
+    margin-top: 25px;
+    margin-left: -55px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 12px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.three:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.div {
+    width: 70px;
+    margin-top: 25px;
+    margin-left: -14px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.9;
+}
+
+.div:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: yellow;
+}
+
+.four {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -25px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.four:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.five {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -75px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.five:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.six {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.six:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.multi {
+    width: 70px;
+    margin-top: 20px;
+    margin-left: -14px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.9;
+}
+
+.multi:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: yellow;
+}
+
+.seven {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -25px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.seven:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.eight {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -75px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.eight:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.nine {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: -60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.nine:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.sub {
+    width: 70px;
+    margin-top: 20px;
+    margin-left: -14px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.9;
+}
+
+.sub:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: yellow;
+}
+
+.dot {
+    width: 60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-left: -25px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.dot:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.zero {
+    width: 60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-left: -50px;
+    margin-right: 25px;
+    background-color: rgb(99, 94, 94);
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.7;
+}
+
+.zero:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: aqua;
+}
+
+.equal {
+    width: 60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-left: -60px;
+    margin-right: 10px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.9;
+}
+
+.equal:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: yellow;
+}
+
+.add {
+    width: 70px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: -14px;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: white;
+    border: 0.5px solid black;
+    opacity: 0.9;
+}
+
+.add:hover {
+    box-shadow: 5px 5px 15px 2px;
+    color: black;
+    background-color: yellow;
+}
